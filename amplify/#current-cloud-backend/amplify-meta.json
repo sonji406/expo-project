@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-studyexpo-dev-8b2e9-authRole",
+      "UnauthRoleArn": "arn:aws:iam::730335497523:role/amplify-studyexpo-dev-8b2e9-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::730335497523:role/amplify-studyexpo-dev-8b2e9-authRole",
+      "Region": "eu-north-1",
+      "DeploymentBucketName": "amplify-studyexpo-dev-8b2e9-deployment",
+      "UnauthRoleName": "amplify-studyexpo-dev-8b2e9-unauthRole",
+      "StackName": "amplify-studyexpo-dev-8b2e9",
+      "StackId": "arn:aws:cloudformation:eu-north-1:730335497523:stack/amplify-studyexpo-dev-8b2e9/b39e2c00-622e-11ef-88c6-0ae338229f71",
+      "AmplifyAppId": "dvpl7c06j8ys1"
+    }
+  }
+}
